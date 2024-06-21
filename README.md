@@ -1,6 +1,6 @@
 Windows Forms App 
-Front End using Visual Basic 
-Back End using Express Server and Typescript
+- Front End using Visual Basic 
+- Back End using Express Server and Typescript
 
 How to Run:
 1. Clone the repository
