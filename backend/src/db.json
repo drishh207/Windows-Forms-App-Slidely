@@ -1,0 +1,37 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phoneNumber": "123-456-7890",
+    "githubLink": "https://github.com/johndoe",
+    "stopwatchTime": "00:02:30"
+  },
+  {
+    "name": "Drishti",
+    "email": "drishti@gmail.com",
+    "phoneNumber": "098-765-4321",
+    "githubLink": "https://github.com/drishti",
+    "stopwatchTime": "00:01:15"
+  },
+  {
+    "name": "Alice Smith",
+    "email": "alice.smith@example.com",
+    "phoneNumber": "111-222-3333",
+    "githubLink": "https://github.com/alicesmith",
+    "stopwatchTime": "00:03:45"
+  },
+  {
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "phoneNumber": "444-555-6666",
+    "githubLink": "https://github.com/bobjohnson",
+    "stopwatchTime": "00:00:50"
+  },
+  {
+    "name": "Carol Brown",
+    "email": "carol.brown@example.com",
+    "phoneNumber": "777-888-9999",
+    "githubLink": "https://github.com/carolbrown",
+    "stopwatchTime": "00:01:20"
+  }
+]
